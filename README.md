@@ -15,9 +15,3 @@ The obtained output file lncRNA-mRNA-result.txt contains the corresponding score
 open IN ,"<lncRNA-mRNA-result.txt" ##The input file here
 open OUT, ">lncRNA-score.txt"      ##The output file here，which include lncRNA risk score
 ```
-
-
-
-```
-
-```
