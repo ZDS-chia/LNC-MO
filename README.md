@@ -1,6 +1,6 @@
 # LNCMO
 The workflow of our method
-<img src="./workflow.png" alt="image-a" style="zoom:67%;" />
+<img src="./workflow.jpg" alt="image-a" style="zoom:67%;" />
 
 This research presents three methods for calculating the one-step neighbor score of lncRNA in network: DNmax, DNsum, and NWsum. Take the NWsum method as an example to illustrate：
 
